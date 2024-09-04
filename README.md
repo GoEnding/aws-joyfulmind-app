@@ -1,1 +1,1 @@
-joyfulmind-chatting 서버 구현
+joyfulmind-chatting app AWS 서버 구현
